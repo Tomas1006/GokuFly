@@ -1,2 +1,2 @@
 # GokuFly
-GokuFly Cocos2d
+GokuFly Cocos2dx
